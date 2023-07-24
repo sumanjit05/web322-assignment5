@@ -1,20 +1,19 @@
-/********************************************************************************* 
+/*********************************************************************************
+*  WEB322 – Assignment 05
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part of this
+*  assignment has been copied manually or electronically from any other source (including web sites) or 
+*  distributed to other students.
+* 
+*  Name: Sumanjit Kaur
+*  Student ID: 129642203
+*  Date: 24/7/2023 
+*
+*  Cyclic Web App URL: https://tiny-trench-coat.cyclic.app/about
+*
+*  GitHub Repository URL: https://github.com/sumanjit05/web322-assignment5
+*
+********************************************************************************/ 
 
-WEB322 – Assignment 02 
-I declare that this assignment is my own work in accordance with Seneca
-Academic Policy.  No part of this assignment has been copied manually or 
-electronically from any other source (including 3rd party web sites) or 
-distributed to other students. I acknoledge that violation of this policy
-to any degree results in a ZERO for this assignment and possible failure of
-the course. 
-
-Name:   
-Student ID:   
-Date:  
-Cyclic Web App URL:  
-GitHub Repository URL:  
-
-********************************************************************************/  
 
 const Sequelize = require('sequelize');
 
