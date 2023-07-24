@@ -6,11 +6,11 @@
 * 
 *  Name: Sumanjit Kaur
 *  Student ID: 129642203
-*  Date: 24/7/2023
+*  Date: 24/7/2023 
 *
-*  Cyclic Web App URL: ________________________________________________________
+*  Cyclic Web App URL: https://tiny-trench-coat.cyclic.app/about
 *
-*  GitHub Repository URL: ______________________________________________________
+*  GitHub Repository URL: https://github.com/sumanjit05/web322-assignment5
 *
 ********************************************************************************/ 
 
